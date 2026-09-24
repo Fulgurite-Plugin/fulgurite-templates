@@ -15,4 +15,4 @@ MCP tools read the same options.
 
 ## Development
 
-See [api](https://github.com/Fulgurite-Plugin/api).
+See [api](https://github.com/Fulgurite-Plugin/fulgurite-api).

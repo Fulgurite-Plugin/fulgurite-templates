@@ -3,7 +3,7 @@
   "displayName": "Templates",
   "version": "0.1.0",
   "description": "Insert a note from your Templates workspace into the current note, with {{title}}, {{date}} and {{time}} filled in",
-  "repository": "https://github.com/Fulgurite-Plugin/templates",
+  "repository": "https://github.com/Fulgurite-Plugin/fulgurite-templates",
   "license": "MIT",
   "main": "main.js",
   "isDesktopOnly": false,
@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "esbuild": "^0.25.0",
-    "fulgurite": "github:Fulgurite-Plugin/api#v0.1.0",
+    "fulgurite": "github:Fulgurite-Plugin/fulgurite-api#v0.1.0",
     "typescript": "^5.6.0"
   }
 }
