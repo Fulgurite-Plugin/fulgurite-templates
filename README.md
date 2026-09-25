@@ -1,6 +1,6 @@
 # Templates
 
-Templates for [Fulgurite](https://github.com/Fulgurite-Plugin), like Obsidian's core plugin: every note in your
+Templates for [fulgurite](https://github.com/fulgurite-plugin), like Obsidian's core plugin: every note in your
 Templates workspace is a template. **Insert template** (⌘P) picks one and inserts it at the cursor with its variables
 filled in:
 
@@ -15,4 +15,4 @@ MCP tools read the same options.
 
 ## Development
 
-See [api](https://github.com/Fulgurite-Plugin/fulgurite-api).
+See [api](https://github.com/fulgurite-plugin/fulgurite-api).
