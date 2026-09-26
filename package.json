@@ -1,7 +1,7 @@
 {
   "name": "fulgurite.templates",
   "displayName": "Templates",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Insert a note from your Templates workspace into the current note, with {{title}}, {{date}} and {{time}} filled in",
   "repository": "https://github.com/fulgurite-plugin/fulgurite-templates",
   "license": "MIT",
